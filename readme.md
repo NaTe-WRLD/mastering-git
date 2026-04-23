@@ -1,4 +1,4 @@
-## Hello guys, welcome to my Git guide!
+## Welcome to Git!
 
 - Yo, its john Doe here
 - This is coming from 'dev-nate'
